@@ -1,0 +1,32 @@
+﻿[
+  {
+    "fecha": "2018-05-06",
+    "temperatureC": 1,
+    "ciudad": "Freezing",
+    "temperatureF": 33
+  },
+  {
+    "fecha": "2018-05-07",
+    "temperatureC": 14,
+    "ciudad": "Bracing",
+    "temperatureF": 57
+  },
+  {
+    "fecha": "2018-05-08",
+    "temperatureC": -13,
+    "ciudad": "Freezing",
+    "temperatureF": 9
+  },
+  {
+    "fecha": "2018-05-09",
+    "temperatureC": -16,
+    "ciudad": "Balmy",
+    "temperatureF": 4
+  },
+  {
+    "fecha": "2018-05-15",
+    "temperatureC": -2,
+    "ciudad": "Chilly",
+    "temperatureF": 29
+  }
+]
